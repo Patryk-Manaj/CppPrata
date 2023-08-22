@@ -23,7 +23,7 @@ int main()
         cout << "Enter step length: ";
         if (!(cin >> dstep))
             break;
-
+        fout << "Distance to pass " << target << ", step size: " << dstep << endl;
         while (result.magval() < target)
         {
             direction = rand() % 360;
