@@ -1,0 +1,4 @@
+Modify the code contained in randwalk.cpp so that instead of
+ displaying a summary informing about the course of a single attempt, 
+it displays the average, minimum and maximum number of steps 
+for N attempts with a fixed distance and constant stride length.
