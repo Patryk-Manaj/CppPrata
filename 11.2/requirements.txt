@@ -1,0 +1,1 @@
+Modify the Vector class header file and method implementation file so that the objects do not store the magnitude and offset of the vector as components. Instead, the object should calculate and return these values ​​as a result of calling the magval() and angval() methods. The public interface should remain unchanged. The private section must be completed.
