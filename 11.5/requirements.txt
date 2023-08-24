@@ -1,0 +1,5 @@
+Rewrite the Stonewt class so that the class contains a state member that controls the choice of mass representation between the number of stones, the number of pounds without a fractional part, or the number of functions with a fractional part. After all,
+ the class operator <<, replacing the 
+show_stn and show_lbs methods with it. After all, the addition, subtraction and 
+multiplication operators for the class so that it is possible to add, 
+subtract and multiply objects of the Stonewt class
