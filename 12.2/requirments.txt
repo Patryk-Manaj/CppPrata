@@ -1,0 +1,5 @@
+Extend the String declarations (updating string1.h to string2.h) as follows:
+overload the + operator so that it can concatenate two strings into one,
+define a stringlow() method that converts all letters in the string to lowercase
+define a stringup() method that converts all the letters in the string to uppercase,
+define a method that takes a char argument and will return the number of occurrences of such a given character in the string of the given object.
