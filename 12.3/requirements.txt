@@ -1,0 +1,1 @@
+Rewrite the Stock class from Listings 10.7 and 10.8 in Chapter 10 so that company names are stored not in string objects, but in self-allocated (and dynamically) memory areas. Also, replace the class's show() method with the definition of the overloaded operator <<. Test the new version of the class with Listing 10.9
