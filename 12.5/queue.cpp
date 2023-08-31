@@ -1,4 +1,3 @@
-// queue.cpp -- implementacje metod klas Queue i Customer
 #include "queue.h"
 #include <cstdlib>   // (albo stdlib.h) -- funkcja rand()
 
