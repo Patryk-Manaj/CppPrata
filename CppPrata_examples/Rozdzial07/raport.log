@@ -1,0 +1,205 @@
+
+arfupt1
+Używanie wskaźników do funkcji:
+ adres  wartość zwracana
+0x7fff61d33590: 1112.3
+0x7fff61d33598: 1542.6
+
+Używanie tablicy wskaźników do funkcji:
+ adres  wartość zwracana
+0x7fff61d33590: 1112.3
+0x7fff61d33598: 1542.6
+0x7fff61d335a0: 2227.9
+
+Używanie wskaźnika do wskaźnika do funkcji:
+ adres  wartość zwracana
+0x7fff61d33590: 1112.3
+0x7fff61d33598: 1542.6
+0x7fff61d335a0: 2227.9
+
+Używanie wskaźników do tablicy wskaźników do funkcji:
+ adres  wartość zwracana
+0x7fff61d33590: 1112.3
+0x7fff61d33598: 1542.6
+0x7fff61d335a0: 2227.9
+
+arfupt
+Używanie wskaźników do funkcji:
+ adres  wartość zwracana
+0x7fff9a95b070: 1112.3
+0x7fff9a95b078: 1542.6
+
+Używanie tablicy wskaźników do funkcji:
+ adres  wartość zwracana
+0x7fff9a95b070: 1112.3
+0x7fff9a95b078: 1542.6
+0x7fff9a95b080: 2227.9
+
+Używanie wskaźnika do wskaźnika do funkcji:
+ adres  wartość zwracana
+0x7fff9a95b070: 1112.3
+0x7fff9a95b078: 1542.6
+0x7fff9a95b080: 2227.9
+
+Używanie wskaźników do tablicy wskaźników do funkcji:
+ adres  wartość zwracana
+0x7fff9a95b070: 1112.3
+0x7fff9a95b078: 1542.6
+0x7fff9a95b080: 2227.9
+
+arrfun2
+0x7fffc4a43340 = adres tablicy, 32 = sizeof cookies
+0x7fffc4a43340 = arr, 8 = sizeof arr
+Zjedzono ciasteczek: 255
+0x7fffc4a43340 = arr, 8 = sizeof arr
+Pierwsze trzy osoby zjadły 7 ciastek.
+0x7fffc4a43350 = arr, 8 = sizeof arr
+Ostatnich czworo zjadło 240 ciastek.
+
+arrfun3
+Podaj wartość nr 1: 100000
+Podaj wartość nr 2: 80
+Podaj wartość nr 3: 222000
+Podaj wartość nr 4: 240000
+Podaj wartość nr 5: 118000
+Nieruchomość nr 1: 100000
+Nieruchomość nr 2: 80
+Nieruchomość nr 3: 222000
+Nieruchomość nr 4: 240000
+Nieruchomość nr 5: 118000
+Podaj czynnik zmiany wartości: 0.8
+Nieruchomość nr 1: 80000
+Nieruchomość nr 2: 64
+Nieruchomość nr 3: 177600
+Nieruchomość nr 4: 192000
+Nieruchomość nr 5: 94400
+Gotowe.
+        
+
+arrfun4
+Zjedzono ciasteczek: 255
+Pierwsze trzy osoby zjadły 7 ciastek.
+Ostatnich czworo zjadło 240 ciastek.
+
+
+arrfun
+Liczba zjedzonych ciasteczek: 255
+
+arrobj
+Podaj wydatki za okres >>Wiosna<<: 212
+Podaj wydatki za okres >>Lato<<: 256
+Podaj wydatki za okres >>Jesień<<: 208
+Podaj wydatki za okres >>Zima<<: 244
+
+WYDATKI
+Wiosna: $212
+Lato: $256
+Jesień: $208
+Zima: $244
+Łącznie wydatki roczne: $920
+
+calling
+main() wywoła funkcję simple():
+Jestem sobie taką prościutką funkcją.
+main() po zakończeniu funkcji simple().
+
+fun_ptr
+Ile wierszy kodu należy napisać? 30
+Oszacowanie Betsy:
+30 wierszy wymaga 1.5 godzin pracy
+Oszacowanie Pam:
+30 wierszy wymaga 1.26 godzin pracy
+
+lotto
+Podaj największą liczbę, jaką można wybrać, oraz
+liczbę skreśleń:
+49
+6
+Szansa wygranej to jeden do 1.39838e+07.
+Następne dwie liczby (q, aby zakończyć): q
+do widzenia
+
+protos
+Cześć! Cześć! Cześć! Cześć! Cześć! 
+Podaj liczbę: 5
+Kostka mająca bok 5cm ma pojemność 125 centymetrów sześciennych.
+Cześć! Cześć! Cześć! Cześć! Cześć! Cześć! Cześć! Cześć! 
+
+recur
+Odliczanie ... 4
+Odliczanie ... 3
+Odliczanie ... 2
+Odliczanie ... 1
+Odliczanie ... 0
+0. Ba-bach!
+1. Ba-bach!
+2. Ba-bach!
+3. Ba-bach!
+4. Ba-bach!
+
+ruler
+|                                                               |
+|                               |                               |
+|               |               |               |               |
+|       |       |       |       |       |       |       |       |
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+strctfun
+Podaj wartości x i y: 30 40
+odległość = 50, kąt = 53.1301 stopni
+Podaj następne liczby lub q, aby zakończyć: -100 100
+odległość = 141.421, kąt = 135 stopni
+Podaj następne liczby lub q, aby zakończyć: q
+Gotowe.
+
+strctptr
+Podaj wartości x i y: 30 40
+odległość = 50, kąt = 53.1301 stopni
+Następna para liczb lub q, aby zakończyć: -100 100
+odległość = 141.421, kąt = 135 stopni
+Następna para liczb lub q, aby zakończyć: q
+Gotowe.
+
+
+strgback
+Podaj znak: V 
+Podaj liczbę całkowitą: 46
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
++++++++++++++++++++-GOTOWE-+++++++++++++++++++
+
+strgfun
+3 znaków m w minimum
+2 znaków u w ululate
+
+topfive
+Podaj 5 ulubionych widoków nieba:
+1: Mgławica w Orionie
+2: M13
+3: Saturn
+4: Jowisz
+5: Księżyc
+Twoja lista:
+1. Mgławica w Orionie
+2. M13
+3. Saturn
+4. Jowisz
+5. Księżyc
+
+travel
+Suma dwóch dni: 10 godzin, 40 minut
+Suma trzech dni: 15 godzin, 12 minut
+
+twoarg
+Podaj znak: W
+Podaj liczbę całkowitą: 50
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+Podaj następny znak; litera q kończy: a
+Podaj liczbę całkowitą: 20
+aaaaaaaaaaaaaaaaaaaa
+Podaj następny znak; litera q kończy: q
+Wartość zmiennej times to 20.
+Do widzenia.
+
+

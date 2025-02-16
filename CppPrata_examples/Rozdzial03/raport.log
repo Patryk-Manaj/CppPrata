@@ -1,0 +1,85 @@
+arith
+Podaj liczbę: 10
+Podaj drugą liczbę: 23
+hats = 10.000000; heads = 23.000000
+hats + heads = 33.000000
+hats - heads = -13.000000
+hats * heads = 230.000000
+hats / heads = 0.434783
+assign
+tree = 3.000000
+guess = 3
+debt = 2147483647
+bondini
+Operacja "HyperHype" została uruchomiona!
+Podaj swój kod agenta:12365233
+Podałeś 12365233...
+Kod poprawny! Proszę realizować plan Z3!
+chartype
+Podaj znak: 
+e
+Hola! Dziękuję za znak e.
+divide
+Dzielenie całkowitoliczbowe: 9/5 = 1
+Dzielenie zmiennoprzecinkowe: 9.0/5.0 = 1.800000
+Dzielenie mieszane: 9.0/5 = 1.800000
+Stałe typu double: 1e7/9.0 = 1111111.111111
+Stałe typu float: 1e7f/9.0f = 1111111.125000
+exceed
+Sam ma 32767 dolarów, a Sue ma 32767 dolarów.
+Do obu kont dodaj 1$.
+Teraz Sam ma -32768 dolarów, a Sue ma 32768 dolarów.
+Biedny Sam!
+Sam ma 0 dolarów, a Sue ma 0 dolarów.
+Zabierzmy z obu kont 1$.
+Teraz Sam ma -1 dolarów, a Sue ma 65535 dolarów.
+Szczęściara Sue!
+floatnum
+tub = 3.333333, a milion razy tub = 3333333.250000,
+a dziesięć milionów razy tub = 33333332.000000
+mint = 3.333333, a milion razy mint = 3333333.333333
+fltadd
+a = 2.34e+22
+b - a = 0
+hexoct1
+Co za figura!
+obwód piersi = 42 (42 dziesiętnie)
+talia = 66 (0x42 szesnastkowo)
+długość nogawki = 34 (042 ósemkowo)
+hexoct2
+Co za figura!
+obwód piersi = 42 (dziesiętnie dla 42)
+talia = 2a (szesnastkowo dla 42)
+długość nogawki = 52 (ósemkowo dla 42)
+init
+tree = 3.000000
+guess = 3
+debt = 2147483647
+limits
+int ma 4 bajty.
+short ma 2 bajty.
+long ma 8 bajty.
+
+long long ma 8 bajtów.
+
+Wartości maksymalne:
+int: 2147483647
+short: 32767
+long: 9223372036854775807
+long long: 9223372036854775807
+
+Minimalna wartość typu int = -2147483648
+Bitów na bajt = 8
+modulus
+Podaj swoją wagę w funtach: 160
+160 funtów to 11 kamieni, 6 funt(ów).
+morechar
+Kod ASCII znaku M to 77
+Dodajemy do kodu znaku jedynkę:
+Kod ASCII znaku N to 78
+Wypisanie char ch za pomocą cout.put(ch): N!
+Gotowe
+typecast
+auks = 31, bats = 30, coots = 30
+Kod odowiadający znakowi Z to 90
+Tak, ten kod to 90

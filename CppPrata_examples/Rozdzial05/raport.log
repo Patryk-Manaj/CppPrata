@@ -1,0 +1,235 @@
+express
+Wyrażenie x = 100 ma wartość 100
+Teraz x = 100
+Wyrażenie x < 3 ma wartość 0
+Wyrażenie x > 3 ma wartość 1
+Wyrażenie x < 3 ma wartość false
+Wyrażenie x > 3 ma wartość true
+forloop
+C++ zna pętle.
+C++ zna pętle.
+C++ zna pętle.
+C++ zna pętle.
+C++ zna pętle.
+C++ wie, kiedy przestać.
+formore
+0! = 1
+1! = 1
+2! = 2
+3! = 6
+4! = 24
+5! = 120
+6! = 720
+7! = 5040
+8! = 40320
+9! = 362880
+10! = 3628800
+11! = 39916800
+12! = 479001600
+13! = 6227020800
+14! = 87178291200
+15! = 1307674368000
+forstr1
+Podaj słowo: kolega  
+agelok
+Do widzenia.
+forstr2
+Podaj słowo: robak
+kabor
+Gotowe
+nestedcl
+Temperatury maksymalne (C) w latach 2008-2011
+
+Jelenia Góra:   32      28      31      30
+Zielona Góra:   31      31      27      31
+Stara Góra:     32      31      29      29
+Górki:  34      32      30      33
+Wilga Górna:    29      30      33      32
+nested
+Temperatury maksymalne (C) w latach 2008-2011
+
+Jelenia Góra:   32      28      31      30
+Zielona Góra:   31      31      27      31
+Stara Góra:     32      31      29      29
+Górki:  34      32      30      33
+Wilga Górna:    29      30      33      32
+num_test
+Podaj wartość początkową odliczania: 4
+i = 4
+i = 3
+i = 2
+i = 1
+Gotowe, bo już i = 0
+plus_one
+a   = 20:   b = 20
+a++ = 20: ++b = 21
+a   = 21:   b = 21
+textin1
+Podawaj znaki; # kończy wprowadzanie:
+Zobacz jak biega Jerzy#nieźle!
+ZobaczjakbiegaJerzy
+ wczytano 19 znaków
+textin2
+Podawaj znaki; znak # kończy: 
+Mam użyć znaku # czy @?
+Mam użyć znaku 
+wczytano 17 znaków
+textin3
+Stoi na stacji lokomotywa,
+Stoi na stacji lokomotywa,
+Ciężka, ogromna i pot z niej spływa - tłusta oliwa.
+Ciężka, ogromna i pot z niej spływa - tłusta oliwa.
+
+wczytano 83 znaków
+textin4
+Z młodej piersi się wyrwało, w wielkim bólu i rozterce
+Z młodej piersi się wyrwało, w wielkim bólu i rozterce
+i za wojskiem poleciało zakochane czyjeś serce
+i za wojskiem poleciało zakochane czyjeś serce
+
+wczytano 108 znaków
+waiting
+Podaj czas opóźnienia w sekundach: 10
+zaczynamy
+gotowe 
+while
+Proszę podać swoje imię: Jacek
+Oto Twoje imię, ustawione pionowo, jako kody ASCII:
+J: 74
+a: 97
+c: 99
+e: 101
+k: 107
+
+bigstep
+Podaj liczb# ca#kowit#: 17
+Zliczanie co 17:
+0
+17
+34
+51
+68
+85
+block
+Cudowny Kalkulator b#dzie sumowa# i liczy# #redni# pi#ciu liczb.
+Prosz# poda# pi## warto#ci:
+Warto## 1: 1942
+Warto## 2: 1948
+Warto## 3: 1957
+Warto## 4: 1974
+Warto## 5: 1980
+Doprawdy, pi## wspania#ych liczb! Ich suma to 9801,
+a #rednia 1960.2.
+Cudowny Kalkulator #egna si# z Tob#!
+compstr1
+?ate
+aate
+bate
+cate
+date
+eate
+fate
+gate
+hate
+iate
+jate
+kate
+late
+P#tla si# sko#czy#a, s#owo to mate
+compstr2
+?ate
+aate
+bate
+cate
+date
+eate
+fate
+gate
+hate
+iate
+jate
+kate
+late
+P#tla si# sko#czy#a, s#owo to mate
+dowhile
+Aby pozna# moj# ulubion# liczb#, podawaj liczby od 1 do 10
+9
+4
+7
+express
+Wyrażenie x = 100 ma wartość 100
+Teraz x = 100
+Wyrażenie x < 3 ma wartość 0
+Wyrażenie x > 3 ma wartość 1
+Wyrażenie x < 3 ma wartość false
+Wyrażenie x > 3 ma wartość true
+forloop
+C++ zna pętle.
+C++ zna pętle.
+C++ zna pętle.
+C++ zna pętle.
+C++ zna pętle.
+C++ wie, kiedy przestać.
+formore
+0! = 1
+1! = 1
+2! = 2
+3! = 6
+4! = 24
+5! = 120
+6! = 720
+7! = 5040
+8! = 40320
+9! = 362880
+10! = 3628800
+11! = 39916800
+12! = 479001600
+13! = 6227020800
+14! = 87178291200
+15! = 1307674368000
+forstr1
+Podaj słowo: kolega
+agelok
+Do widzenia.
+forstr2
+Podaj słowo: robak
+kabor
+Gotowe
+nestedcl
+Temperatury maksymalne (C) w latach 2008-2011
+
+Jelenia Góra:   32      28      31      30
+Zielona Góra:   31      31      27      31
+Stara Góra:     32      31      29      29
+Górki:  34      32      30      33
+Wilga Górna:    29      30      33      32
+nested
+Temperatury maksymalne (C) w latach 2008-2011
+
+Jelenia Góra:   32      28      31      30
+Zielona Góra:   31      31      27      31
+Stara Góra:     32      31      29      29
+Górki:  34      32      30      33
+Wilga Górna:    29      30      33      32
+num_test
+Podaj wartość początkową odliczania: 4
+i = 4
+i = 3
+i = 2
+i = 1
+Gotowe, bo już i = 0
+plus_one
+a   = 20:   b = 20
+a++ = 20: ++b = 21
+a   = 21:   b = 21
+textin1
+Podawaj znaki; # kończy wprowadzanie:
+Zobacz jak biega Jerzy#nieźle!
+ZobaczjakbiegaJerzy
+ wczytano 19 znaków
+textin2
+Podawaj znaki; znak # kończy: 
+Mam użyć znaku # czy @?
+Mam użyć znaku 
+wczytano 17 znaków
+

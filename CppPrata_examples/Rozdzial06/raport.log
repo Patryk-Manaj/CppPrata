@@ -1,0 +1,206 @@
+and
+Podaj wartości WPNW (Współczynniki Podatności Na Wpływy) 
+swoich sąsiadów. Działanie programu zakończy się po podaniu
+6 wartości lub po podaniu wartości ujemnej.
+Wartość pierwsza: 28
+Następna wartość: 8
+Następna wartość: 15
+Następna wartość: 72
+Następna wartość: 140
+Następna wartość: 136
+Podaj swój WPNW: 50
+3 twoi sąsiedzi są bardziej podatni na wpływy
+niż ty.
+
+cctypes
+Podaj tekst do analizy, zakończ go, wpisując znak @.
+Idzie Grześ przez wieś, worek piasku niesie@
+34 liter, 6 białych znaków, 0 cyfr, 1 znaków przestankowych, 4 innych znaków.
+
+cinfish
+Proszę podać wagę swoich ryb.
+Maksymalnie można podać 5 ryb <q kończy>.
+ryba 1.: 12
+ryba 2.: 2
+ryba 3.: 4
+ryba 4.: 67
+ryba 5.: 2
+17.4 = średnia waga 5 ryb
+Gotowe.
+
+cingolf
+Proszę podać swoje wyniki w golfie.
+Musisz podać wynik 5 gier.
+tura 1.: 1
+tura 2.: 2
+tura 3.: 1
+tura 4.: 1
+tura 5.: 3
+1.6 = średni wynik z 5 tur
+
+condit
+Podaj dwie liczby całkowite: 1235
+5345
+Większa z liczb 1235 i 5345 to 5345
+
+
+enum
+Podaj kod koloru (0-6): 4
+Jej dres był niebieski.
+Podaj kod koloru (0-6): 2
+Jej buty były żółte.
+Podaj kod koloru (0-6): 1
+Jej włosy były pomarańczowe.
+Podaj kod koloru (0-6): 2
+Jej buty były żółte.
+Podaj kod koloru (0-6): 5
+Jej oczy były fiołkowe.
+Podaj kod koloru (0-6): 6
+Była w nastroju indygo.
+Podaj kod koloru (0-6): 3
+Jej paznokcie były zielone.
+Podaj kod koloru (0-6): 4
+Jej dres był niebieski.
+Podaj kod koloru (0-6): 5
+Jej oczy były fiołkowe.
+Podaj kod koloru (0-6): 1
+Jej włosy były pomarańczowe.
+Podaj kod koloru (0-6): 2
+Jej buty były żółte.
+Podaj kod koloru (0-6): 4
+Jej dres był niebieski.
+Podaj kod koloru (0-6): 3
+Jej paznokcie były zielone.
+Podaj kod koloru (0-6): 4
+Jej dres był niebieski.
+Podaj kod koloru (0-6): 2
+Jej buty były żółte.
+Podaj kod koloru (0-6): 1
+Jej włosy były pomarańczowe.
+Podaj kod koloru (0-6): 2
+Jej buty były żółte.
+Podaj kod koloru (0-6): 3
+Jej paznokcie były zielone.
+Podaj kod koloru (0-6): 4
+Jej dres był niebieski.
+Podaj kod koloru (0-6): 5
+Jej oczy były fiołkowe.
+Podaj kod koloru (0-6): 6
+Była w nastroju indygo.
+Podaj kod koloru (0-6): 0
+Jej usta były czerwone.
+Podaj kod koloru (0-6): 7
+Do widzenia
+
+if
+Baloniarz zrobił wszystkich w balona i poleciał sam
+.
+W zdaniu jest 7 spacji, a łącznie 54 znaków.
+
+ifelse
+Pisz, a ja będę powtarzać.
+Jestem ogromnie szczęśliwy używając
+Kftufn!phspnojf!t{d{ŚƜmjxz!vƽzxbkņd
+tak doskonałego komputera
+ubl!eptlpobƃfhp!lpnqvufsb
+.
+
+Proszę wybaczyć drobne niedoróbki.
+
+ifelseif
+Szukaj mojej ulubionej liczby - mieści się w zakresie 1 - 100: 34
+Za dużo -- próbuj dalej: 22
+Za mało -- próbuj dalej: 26
+Za mało -- próbuj dalej: 29
+Za dużo -- próbuj dalej: 27
+27 to jest to!
+
+jump
+Wpisz wiersz tekstu:
+Idzie Grześ przez wieś
+Cały wiersz:
+Idzie Grześ przez wieś
+Wiersz do pierwszej kropki:
+Idzie Grześ przez wieś
+3 spacji
+Gotowe.
+
+
+more_and
+Podaj swój wiek: 33
+Kwalifikujesz się do konkurencji bieg na 10km.
+
+not
+Hej, koleś! Rzuć no liczbą całkowitą: 152
+Podana liczba całkowita to 152
+Bywaj
+
+or
+Program ten może sformatować twój dysk
+i zniszczyć wszystkie znajdujące się na nim dane.
+Czy mam kontynuować? <t/n> n
+Bardzo rozsądnie... Do widzenia
+
+outfile
+Podaj markę i model auta: Opel Astra
+Podaj rok produkcji: 1999
+Podaj cenę wyjściową: 8000
+Marka i model: Opel Astra
+Rok: 1999
+Cena wywoławcza w zł: 8000.00
+Cena bieżąca: 7304.00
+
+sumafile
+Podaj nazwę pliku z danymi: dane.dat
+Otwarcie pliku dane.dat nie powiodło się.
+Program zostanie zakończony.
+
+switch
+Wybierz 1, 2, 3, 4 albo 5:
+1) alarm           2) raport
+3) alibi           4) luzik
+5) koniec
+2
+To był naprawdę wspaniały tydzień.
+Sprzedaż wzrosła o 120%, wydatki zmalały o 35%.
+Wybierz 1, 2, 3, 4 albo 5:
+1) alarm           2) raport
+3) alibi           4) luzik
+5) koniec
+1
+
+Wybierz 1, 2, 3, 4 albo 5:
+1) alarm           2) raport
+3) alibi           4) luzik
+5) koniec
+4
+Pracownicy uważają cię za najfajniejszego
+dyrektora w całej branży. Zarząd sądzi, że jesteś
+najlepszym dyrektorem w całym przemyśle.
+Wybierz 1, 2, 3, 4 albo 5:
+1) alarm           2) raport
+3) alibi           4) luzik
+5) koniec
+1
+
+Wybierz 1, 2, 3, 4 albo 5:
+1) alarm           2) raport
+3) alibi           4) luzik
+5) koniec
+3
+Szef nigdzie nie wychodził.
+Wybierz 1, 2, 3, 4 albo 5:
+1) alarm           2) raport
+3) alibi           4) luzik
+5) koniec
+5
+Do zobaczenia!
+
+
+sumafile
+Podaj nazwę pliku z danymi: data.dat
+Koniec pliku.
+Wczytanych elementów: 12
+Suma: 204.5
+Średnia: 17.0417
+

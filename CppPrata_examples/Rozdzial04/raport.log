@@ -1,0 +1,152 @@
+addpntrs
+pw = 0x7fff5cd8f170, *pw = 10000
+dodaj do wskaźnika pw 1:
+pw = 0x7fff5cd8f178, *pw = 20000
+
+ps = 0x7fff5cd8f1a0, *ps = 3
+dodaj do wskaźnika ps 1:
+ps = 0x7fff5cd8f1a2, *ps = 2
+
+dostęp do dwóch elementów, zapis tablicowy
+stacks[0] = 3, stacks[1] = 2
+dostęp do dwóch elementów, zapis wskaźnikowy
+*stacks = 3, *(stacks + 1) =  2
+24 = wielkość tablicy wages
+8 = wielkość wskaźnika pw
+address
+wartość zmiennej donuts = 6, a adres tej zmiennej = 0x7fffe99499fc
+wartość zmiennej cups = 4.5, a adres tej zmiennej = 0x7fffe99499f0
+arraynew
+p3[1] to 0.5.
+Teraz p3[0] to 0.5, a p3[1] to 0.8.
+arrayone
+Razem ignamów = 21
+Paczka zawierająca 8 ignamów kosztuje po 30 groszy za bulwę.
+Łączny koszt ignamu to 410 groszy.
+
+Rozmiar tablicy yams = 12 bajtów.
+Rozmiar jednego elementu = 4 bajtów.
+arrstruc
+Goście tacy jak Bambi i Godzilla
+razem mają 2000.5 stóp sześciennych.
+assgn_st
+zmienna bouquet: słoneczniki za 12.49zł
+zmienna choice: słoneczniki za 12.49zł
+choices
+a1[2]: 3.6 pod adresem 0x7fff4185b710
+a2[2]: 0.142857 pod adresem 0x18f0020
+a3[2]: 1.62 pod adresem 0x7fff4185b730
+a4[2]: 1.62 pod adresem 0x7fff4185b750
+a1[-2]: 20.2 pod adresem 0x7fff4185b6f0
+a3[2]: 1.62 pod adresem 0x7fff4185b730
+a4[2]: 1.62 pod adresem 0x7fff4185b750
+delete
+Podaj nazwisko: Kowalski
+Kowalski pod adresem 0x72c010
+Podaj nazwisko: Nowak   
+Nowak pod adresem 0x72c010
+init_ptr
+Wartość zmiennej higgens = 5; Adres zmiennej higgens = 0x7fff6250ce5c
+Wartość *pt = 5; Wartość pt = 0x7fff6250ce5c
+instr1
+Podaj swoje imię:
+Zuzanna
+Podaj swój ulubiony deser:
+Ciasto
+Mam dla ciebie Ciasto, Zuzanna.
+instr2
+Podaj swoje imię:
+Zenek
+Podaj swój ulubiony deser:
+jabłko
+Mam dla ciebie jabłko, Zenek.
+instr3
+Podaj swoje imię:
+Julia
+Podaj swój ulubiony deser:
+lody
+Mam dla ciebie lody, Julia.
+mixtypes
+2003
+1999
+1998
+1999
+newstrct
+Podaj nazwę dmuchanej zabawki: balon
+Podaj objętość w stopach sześciennych: 1
+Podaj cenę (zł): 10
+Nazwa: balon
+Objętość: 1 stóp sześciennych
+Cena: 10zł
+numstr
+W którym roku zbudowano twój dom?
+1966
+Przy jakiej ulicy mieszkasz?
+Rok budowy: 1966
+Adres: 
+Gotowe!
+pointer
+Wartości: updates = 6, *p_updates = 6
+Adresy: &updates = 0x7fff419b68ec, p_updates = 0x7fff419b68ec
+Teraz updates = 7
+ptrstr
+niedźwiedź oraz myszołów
+H�l$�L�d$�H�-� 
+Podaj rodzaj zwierzęcia: wilk
+wilki!
+Przed użyciem strcpy():
+wilk pod adresem 0x7ffff0bad5c0
+wilk pod adresem 0x7ffff0bad5c0
+Po użyciu strcpy():
+wilk pod adresem 0x7ffff0bad5c0
+wilk pod adresem 0xbcb010
+strings
+Jak się masz! Jestem C++owboy! A jak ty się nazywasz?
+Basicman
+No tak, Basicman, twoje imię ma 8 liter i jest zapisane
+w tablicy mającej 15 bajtów.
+Twój inicjał to B.
+Pierwsze trzy litery mojego imienia to: C++
+strtype1
+Podaj gatunek kota: ocelot
+Podaj inny gatunek kota: tygrys
+Oto wybrane kotowate:
+ocelot jaguar tygrys pantera
+Trzecia litera w słowie jaguar to g
+Trzecia litera w słowie pantera to n
+strtype2
+Jeden obiekt można przypisać innemu: s2 = s1
+s1: pingwin, s2: pingwin
+Obiektowi string można przypisać łańcuch w konwencji C.
+s2 = "myszołów"
+s2: myszołów
+Można łączyć dwa łańcuchy string: s3 = s1 + s2
+s3: pingwinmyszołów
+Można dodawać łańcuchy.
+s1 += s2 daje s1 = pingwinmyszołów
+s2 += " na dzień" daje s2 = myszołów na dzień
+strtype3
+Łańcuch pantera makaron ma 15 znaków.
+Łańcuch jaguar sok ma 10 znaków.
+strtype4
+Długość łańcucha w zmiennej charr przed wprowadzeniem danych: 6
+Długość łańcucha w zmiennej str przed wprowadzeniem danych: 0
+Wprowadzenie wiersza tekstu:
+masło orzechowe
+Wprowadzono: masło orzechowe
+Podaj kolejny wiersz tekstu:
+dżem jagodowy
+Wprowadzono: dżem jagodowy
+Długość łańcucha w zmiennej charr po wprowadzeniu danych: 16
+Długość łańcucha w zmiennej str po wprowadzeniu danych: 14
+structur
+Wpisz na swoją listę gości jeszcze: Glorious Gloria oraz Audacious Arthur!
+Możesz mieć ich oboje za 62.98zł!
+use_new
+wartość nights = 1001: położenie 0x7fffc3c2d0dc
+int wartość = 1001: położenie = 0x2310010
+double: wartość = 1e+07: położenie = 0x2310030
+położenie wskaźnika pd: 0x7fffc3c2d0c8
+wielkość pt = 8: wielkość *pt = 4
+wielkość pd = 8: wielkość *pd = 8
+

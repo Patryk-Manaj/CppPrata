@@ -1,0 +1,4 @@
+Marka i model: Opel Astra
+Rok: 1999
+Cena wywoławcza w zł: 8000.00
+Cena bieżąca: 7304.00
